@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.0"
     defaultConfig {
-        applicationId "com.diglesia.hw2017mobiledev.lab7"
+        applicationId "com.pranayaa.hw2017mobiledev.lab7"
         minSdkVersion 19
         targetSdkVersion 26
         versionCode 1
@@ -33,3 +33,4 @@ dependencies {
 }
 
 apply plugin: 'com.google.gms.google-services'
+
